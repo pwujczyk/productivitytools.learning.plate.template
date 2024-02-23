@@ -48,14 +48,18 @@ export function FixedToolbarButtons() {
                 <Icons.underline />
               </MarkToolbarButton>
 
-              <MarkToolbarButton
+              {/* <MarkToolbarButton
                 tooltip="Strikethrough (⌘+⇧+M)"
                 nodeType={MARK_STRIKETHROUGH}
               >
                 <Icons.strikethrough />
-              </MarkToolbarButton>
+              </MarkToolbarButton> */}
+              
               <MarkToolbarButton tooltip="Code (⌘+E)" nodeType={MARK_CODE}>
                 <Icons.code />
+              </MarkToolbarButton>
+              <MarkToolbarButton tooltip="Italic (⌘+I)" nodeType={MARK_ITALIC}>
+                <Icons. />
               </MarkToolbarButton>
             </ToolbarGroup>
           </>

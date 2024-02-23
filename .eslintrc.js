@@ -30,7 +30,7 @@ module.exports = {
   settings: {
     tailwindcss: {
       callees: ['cn', 'cva', 'withCn'],
-      config: 'tailwind.config.js',
+      config: path.join(__dirname, "./tailwind.config.js"),
     },
     next: {
       rootDir: ['./'],

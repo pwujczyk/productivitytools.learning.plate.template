@@ -19,3 +19,7 @@ pnpm dev
 - Icons from [Lucide](https://lucide.dev)
 - Dark mode with `next-themes`
 - Tailwind CSS class sorting, merging and linting.
+
+
+### 
+I tried to run the plate from the template this is working. 
