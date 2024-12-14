@@ -21,5 +21,8 @@ pnpm dev
 - Tailwind CSS class sorting, merging and linting.
 
 
-### 
-I tried to run the plate from the template this is working. 
+### ProductivityTools comment 
+I tried to run the plate from the template. The last version is working and displays page as below. 
+
+
+![](Images/20241214224639.png)
