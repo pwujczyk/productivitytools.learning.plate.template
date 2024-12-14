@@ -59,7 +59,7 @@ export function FixedToolbarButtons() {
                 <Icons.code />
               </MarkToolbarButton>
               <MarkToolbarButton tooltip="Italic (⌘+I)" nodeType={MARK_ITALIC}>
-                <Icons. />
+                <Icons.code/>
               </MarkToolbarButton>
             </ToolbarGroup>
           </>
